@@ -1,0 +1,6 @@
+github.com/coreos/etcd v0.5.0-alpha.5 h1:0Qi6Jzjk2CDuuGlIeecpu+em2nrjhOgz2wsIwCmQHmc=
+github.com/coreos/etcd v2.3.8+incompatible h1:Lkp5dgqMANTjq0UW74OP1H8yCDQT0In4jrw6xfcNlGE=
+github.com/coreos/etcd v2.3.8+incompatible/go.mod h1:uF7uidLiAD3TWHmW31ZFd/JWoc32PjwdhPthX9715RE=
+github.com/etcd-io/etcd v0.5.0-alpha.5 h1:9HI69yxpati8hQqUmqhaMQPJzXjNN5l+8XacgJBCCZ4=
+github.com/etcd-io/etcd v2.3.8+incompatible h1:rgggkvxu3ScCEOCcKwqDDJwKZNZmxY/vVxcPwYTNrVg=
+github.com/etcd-io/etcd v2.3.8+incompatible/go.mod h1:cdZ77EstHBwVtD6iTgzgvogwcjo9m4iOqoijouPJ4bs=
