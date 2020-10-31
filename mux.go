@@ -6,8 +6,9 @@ import (
 	"os"
 	"strings"
 
-	"github.com/coreos/etcd/Godeps/_workspace/src/golang.org/x/net/context"
-	"github.com/etcd-io/etcd/clientv3"
+	"context"
+
+	"go.etcd.io/etcd/clientv3"
 )
 
 const usage = `etcd MUX
